@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="th02160_LeQuangPhuc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>th02160_LeQuangPhuc</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="th02160_LeQuangPhuc-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="th02160_LeQuangPhuc:war exploded" />
+    </root>
+  </artifact>
+</component>
